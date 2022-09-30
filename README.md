@@ -1,4 +1,12 @@
-### Hi there 👋
+### Welcome, have a seat
+![imagine a bonfire here](https://tenor.com/view/bonfire-darksouls-gif-20055179)
+
+## About Me
+🇨🇭 I'm an IT-Student from Switzerland
+⚙️ I enjoy automating processes
+🌱 I'm eager to learn
+
+👋 Have a nice day!
 
 <!--
 **L-Ferrer/L-Ferrer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
