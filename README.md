@@ -1,10 +1,10 @@
 ### Welcome, have a seat
-![imagine a bonfire here](https://tenor.com/view/bonfire-darksouls-gif-20055179)
+![imagine a bonfire here](https://github.com/L-Ferrer/L-Ferrer/blob/main/img/bonfire.gif)
 
-## About Me
-🇨🇭 I'm an IT-Student from Switzerland
-⚙️ I enjoy automating processes
-🌱 I'm eager to learn
+### About Me
+- 🇨🇭 I'm an IT-Student from Switzerland
+- ⚙️ I enjoy automating processes
+- 🔭 I'm eager to learn and explore
 
 👋 Have a nice day!
 
