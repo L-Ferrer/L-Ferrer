@@ -1,10 +1,11 @@
-### Welcome, have a seat ☕
+<h3 align="center"> Welcome, have a seat ☕</h3>
 <p align="center">
   <img align="center" src="https://github.com/L-Ferrer/L-Ferrer/blob/main/img/bonfire.gif">
 </p>
 
 
-### About Me
+<h3 align="center"> About Me </h3>
+
 - 🇨🇭 I'm an IT-Student from Switzerland
 - ⚙️ I enjoy automating processes
 - 🔭 I'm eager to learn and explore
