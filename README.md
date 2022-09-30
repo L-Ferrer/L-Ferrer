@@ -1,5 +1,8 @@
-### Welcome, have a seat
-![imagine a bonfire here](https://github.com/L-Ferrer/L-Ferrer/blob/main/img/bonfire.gif)
+### Welcome, have a seat ☕
+<p align="center">
+  <img align="center" src="https://github.com/L-Ferrer/L-Ferrer/blob/main/img/bonfire.gif">
+</p>
+
 
 ### About Me
 - 🇨🇭 I'm an IT-Student from Switzerland
