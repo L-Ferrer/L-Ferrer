@@ -6,9 +6,9 @@
 
 <h3 align="center"> About Me </h3>
 
-- 🇨🇭 I'm an IT-Student from Switzerland
-- ⚙️ I enjoy automating processes
-- 🔭 I'm eager to learn and explore
+- 📚  I'm an IT-Student
+- ⚙️  I enjoy automating processes
+- 🔭  I'm eager to learn and explore
 
 👋 Have a nice day!
 
